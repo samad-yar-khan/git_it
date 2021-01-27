@@ -4,3 +4,5 @@ touch
 gorilla glass
 
 dual camera
+
+facial recognition
